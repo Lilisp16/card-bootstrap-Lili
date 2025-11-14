@@ -1,0 +1,18 @@
+/* Contenedor de la imagen */
+.img {
+    perspective: 1000px; 
+}
+
+.img img {
+    border-radius: 0 0 10px; 
+    transition: transform 0.5s, box-shadow 0.5s;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+a {
+    
+    text-decoration: none;
+    border-radius: 5px;     
+    color: rgb(14, 181, 193)
+}
+
